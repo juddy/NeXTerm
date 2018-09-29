@@ -1,0 +1,12 @@
+The NEWS file was generated from xterm.log.html, which serves as the changelog
+for xterm.
+--------------------------------------------------------------------------------
+                            Patch #337 - 2018/09/21
+
+     * regenerated configure script (report by Sven Joachim).
+     * revise/improve  fix  for  scrolling  in margins (report/analysis by
+       Martin Hostettler):
+     * amend change to default-translations "select" subset to ensure that
+       specific  key-press  actions  are  listed  before generic key-press
+       actions (reports by H Merijn Brand, Sven Joachim).
+
